@@ -11,3 +11,11 @@
 # print(((5+30)*20)/15)
 
 # переменная обозначает именованное место для хранения данных
+
+# fred = 200
+# miha = fred
+# print(miha)
+
+# print('Пример')
+number_of_coins = 250
+print(number_of_coins)
