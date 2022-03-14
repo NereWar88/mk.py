@@ -212,3 +212,10 @@
 # myname3 = 'Vasilich'
 # message = 'Hello, dear %s %s, you\'re welcome %s %s!'
 # print(message % (myname1,myname2,myname1,myname3))
+
+
+#### Глава 4
+### Рисование с помощью черепашки
+import turtle
+# создание холста для рисования, вызов функции Pen
+t = turtle.Pen()
