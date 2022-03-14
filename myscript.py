@@ -188,9 +188,27 @@
 # Теперь создайте список любимых лакомств, сохранив его в переменной foods.
 # Объедините два этих списка, сохранив результат в переменной favorites.
 # Напечатайте значение этой переменной.
-goodgames = ['LineAge 2', 'Dragon Age: Origins', 'TESV: Skyrim', 'Diablo 2-3', 'Witcher 2-3']
-print(goodgames)
-goodfood = ['Чизбургер', 'Спагетти', 'Оливье', 'Жульен','Pizza']
-print(goodfood)
-favorites = (goodgames+goodfood)
-print(favorites)
+# goodgames = ['LineAge 2', 'Dragon Age: Origins', 'TESV: Skyrim', 'Diablo 2-3', 'Witcher 2-3']
+# goodfood = ['Чизбургер', 'Спагетти', 'Оливье', 'Жульен','Pizza']
+# favorites = (goodgames+goodfood)
+# print(favorites)
+
+#2. Подсчет воинов
+# Есть 3 дома, на крыше каждого из которых прячутся по 25 ниндзя.
+# И есть 2 туннеля, в каждом из которых скрывается по 40 самураев.
+# Сколько всего воинов решили устроить заварушку?
+# (Ответ можно найти, введя в оболочке Python арифметическое выражение.)
+# ninja = (3*25)
+# samura = (2*40)
+# allwarriors=(ninja+samura)
+# print(allwarriors)
+
+#3. Приветствие
+# Создайте две переменные: пусть одна хранит ваше имя, а другая фамиию.
+# Теперь с помощью строки с метками %s напечатайте приветствие.
+# Bроде такого: «Привет, Брандо Икетт!».
+# myname1 = 'Maksim'
+# myname2 = 'Klimkin'
+# myname3 = 'Vasilich'
+# message = 'Hello, dear %s %s, you\'re welcome %s %s!'
+# print(message % (myname1,myname2,myname1,myname3))
